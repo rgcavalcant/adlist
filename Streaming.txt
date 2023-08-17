@@ -1,6 +1,6 @@
   max.com 		
   imdb.com			
-	disneyplus.com 			
+  disneyplus.com 			
 	primevideo.com 			
 	hulu.com			
 	nicovideo.jp			
