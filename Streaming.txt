@@ -1,8 +1,8 @@
   max.com 		
   imdb.com			
   disneyplus.com 			
-	primevideo.com 			
-	hulu.com			
+  primevideo.com 			
+  hulu.com			
 	nicovideo.jp			
 	kinopoisk.ru			
 	aparat.com 			
