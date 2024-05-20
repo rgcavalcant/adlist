@@ -1,0 +1,3 @@
+api.linxpayhub.com.br
+farmaciapopular-autorizador.saude.gov.br
+nfce.svrs.rs.gov.br
