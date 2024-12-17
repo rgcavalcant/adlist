@@ -26,3 +26,5 @@ saude.gov.br
 memed.com.br
 ephama.com.br
 cfm.org.br
+poswebapi.epharma.com.br
+www.epharma.com.br
