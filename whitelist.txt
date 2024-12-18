@@ -31,3 +31,4 @@ www.epharma.com.br
 login.live.com 
 10.7.0.206/motofarma
 10.7.0.214:3002
+www.google.com
