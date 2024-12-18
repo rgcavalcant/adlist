@@ -28,4 +28,6 @@ ephama.com.br
 cfm.org.br
 poswebapi.epharma.com.br
 www.epharma.com.br
-login.live.com
+login.live.com 
+10.7.0.206/motofarma
+10.7.0.214:3002
